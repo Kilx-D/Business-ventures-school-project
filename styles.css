@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Roboto+Mono:wght@100&display=swap');
+:root {
+    margin: 0;
+    padding: 0;
+}
+body {
+    color: white;
+    
+    background-image: linear-gradient(
+      115deg,
+      rgba(34, 0, 255, 0.3),
+      rgba(217, 0, 255, 0.2)
+    ),
+    url(https://www.careergirls.org/wp-content/uploads/2020/06/Robotics-Engineer-Career-1920x1080-1.jpg);
+    
+}
+
+div {
+    background-color: black;
+    opacity: 0.8;
+    border-radius: 6px;
+    margin: 18% auto;
+    padding: 50px; 
+    text-align: center;
+    width: 50%;
+   
+}
+
+h1 {
+    font-family: 'Quicksand', sans-serif;
+}
+
+h2,
+h3,
+p {
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1,
+h3,
+p {
+    text-align: center;
+    margin: 20px 0;
+}
+
+a {
+    color: white;
+}
